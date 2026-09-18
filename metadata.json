@@ -1,0 +1,6 @@
+{
+  "name": "Seeme Uzay Real Estate",
+  "description": "Seeme Uzay Real Estate helps clients discover, buy, sell, rent, and explore property opportunities with professional guidance and a client-first approach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
